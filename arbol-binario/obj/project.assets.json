@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\osiri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\UNAJ Ingenieria\\2° AÑO\\Complejidad Temporal, Estructura de Datos y Algoritmos\\complejidad-temporal-estructura-datos\\arbol-binario\\arbol-binario.csproj",
+      "projectName": "arbol-binario",
+      "projectPath": "C:\\UNAJ Ingenieria\\2° AÑO\\Complejidad Temporal, Estructura de Datos y Algoritmos\\complejidad-temporal-estructura-datos\\arbol-binario\\arbol-binario.csproj",
+      "packagesPath": "C:\\Users\\osiri\\.nuget\\packages\\",
+      "outputPath": "C:\\UNAJ Ingenieria\\2° AÑO\\Complejidad Temporal, Estructura de Datos y Algoritmos\\complejidad-temporal-estructura-datos\\arbol-binario\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\osiri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\osiri\\.dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\bin\Debug\net7.0\arbol-binario.exe
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\bin\Debug\net7.0\arbol-binario.deps.json
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\bin\Debug\net7.0\arbol-binario.runtimeconfig.json
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\bin\Debug\net7.0\arbol-binario.dll
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\bin\Debug\net7.0\arbol-binario.pdb
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.csproj.AssemblyReference.cache
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.AssemblyInfoInputs.cache
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.AssemblyInfo.cs
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.csproj.CoreCompileInputs.cache
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.dll
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\refint\arbol-binario.dll
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.pdb
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\arbol-binario.genruntimeconfig.cache
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\complejidad-temporal-estructura-datos\arbol-binario\obj\Debug\net7.0\ref\arbol-binario.dll
